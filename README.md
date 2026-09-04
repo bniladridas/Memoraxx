@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/memoraxx/main/.github/assets/thumbnail.png" alt="memoraxx" width="100%">
+</p>
+
 # memoraxx
 
 A C++ terminal client for interacting with a local Llama-based AI language model server, featuring context-aware conversations with memory persistence and performance metrics.
