@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/memoraxx/main/.github/assets/thumbnail.png" alt="memoraxx" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/memoraxx/main/.github/assets/thumbnail.png" alt="memoraxx" width="100%">
 </p>
 
 # memoraxx
